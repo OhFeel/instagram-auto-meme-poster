@@ -1,2 +1,2 @@
-# instagram auto meme poster
+# Instagram meme poster
  automated instagram meme poster
